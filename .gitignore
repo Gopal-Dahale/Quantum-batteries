@@ -8,3 +8,6 @@ ssh-access-guide-for-jupyterlab.pdf
 Untitled.ipynb
 .ipynb_checkpoints
 __pycache__
+.vscode
+cs-Copy1.ipynb
+temp.ipynb
